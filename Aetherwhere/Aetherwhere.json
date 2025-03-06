@@ -1,0 +1,13 @@
+{
+  "Author": "Contheo",
+  "Name": "Aetherwhere",
+  "Punchline": "Tracks Aether Current locations in FFXIV.",
+  "Description": "Aetherwhere helps players find and track Aether Current locations to unlock flying in FFXIV zones.",
+  "ApplicableVersion": "any",
+  "Tags": [
+      "aether currents",
+      "ffxiv",
+      "plugin",
+      "flying"
+  ]
+}

@@ -1,8 +1,8 @@
-﻿using Dalamud.Configuration;
+using Dalamud.Configuration;
 using Dalamud.Plugin;
 using System;
 
-namespace SamplePlugin;
+namespace Aetherwhere; //  Updated namespace
 
 [Serializable]
 public class Configuration : IPluginConfiguration
@@ -12,9 +12,11 @@ public class Configuration : IPluginConfiguration
     public bool IsConfigWindowMovable { get; set; } = true;
     public bool SomePropertyToBeSavedAndWithADefault { get; set; } = true;
 
-    // the below exist just to make saving less cumbersome
     public void Save()
     {
-        Plugin.PluginInterface.SavePluginConfig(this);
+        if (Aetherwhere.PluginInterface != null)
+        {
+            Aetherwhere.PluginInterface.SavePluginConfig(this);
+        }
     }
 }
