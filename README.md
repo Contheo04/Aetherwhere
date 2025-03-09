@@ -1,4 +1,4 @@
-# **Aetherwhere** 🌍✨  
+# **Aetherwhere** 🌍
 *A Work-in-Progress Dalamud Plugin for Tracking Aether Currents*  
 
 ## **About**  
@@ -24,7 +24,7 @@ This plugin was **built on top of the Sample Plugin** provided by **[Dalamud.dev
 - **[Heavenswhere](http://heavenswhere.com)** (*Now inactive, but was an amazing resource for tracking Aether Currents!*)  
 - **[Hunty](https://github.com/Infiziert90/Hunty)** (*FFXIV Hunting Log tracking plugin, helped shape UI elements and interactions*)  
 
-Big thanks to the **Dalamud & FFXIV Plugin Dev Community** for their tools, documentation, and support! 🎉  
+Big thanks to the **Dalamud & FFXIV Plugin Dev Community** for their tools and documentation! 🎉  
 
 ---
 
