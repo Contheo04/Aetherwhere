@@ -45,4 +45,4 @@ This project is still a **WIP**, but **feedback & contributions** are welcome! F
 ---
 
 ## **License**  
-This project is **open-source** and follows the **AGPL-3.0 License**.  
+This project is **open-source** and follows the **MIT License**.  
